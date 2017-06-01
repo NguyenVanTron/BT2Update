@@ -23,6 +23,8 @@ https://developers.google.com/vision/introduction
 https://developers.google.com/vision/face-detection-concepts
 https://developers.google.com/vision/android/detect-faces-tutorial
 https://developers.google.com/vision/android/face-tracker-tutorial
+Code chính: VanTron
+Code & design: ThanhTruc
 
 
 
