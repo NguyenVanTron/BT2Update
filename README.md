@@ -1,4 +1,5 @@
 # CameraApp
+Xây dựng trên Android Studio
 1.	Tìm hiểu Camera2 API
 
 2.	Cài đặt Camera2 chụp hình cơ bản
